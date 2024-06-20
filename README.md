@@ -3,20 +3,6 @@
 Este projeto oferece um código Python para detecção de faces em imagens, utilizando o modelo Haar Cascade. O objetivo é construir um sistema básico de reconhecimento facial do zero, com instruções passo a passo para preparar o ambiente e realizar a detecção.
 
 ## Preparação do Ambiente
-
-Para executar o código, você precisa ter um ambiente Python configurado com as bibliotecas necessárias. O Google Colab é recomendado para facilitar a execução interativa do código. As principais bibliotecas utilizadas são:
-
-- TensorFlow
-- NumPy
-- OpenCV (cv2)
-- Matplotlib
-- PIL (Python Imaging Library)
-
-# Criando um Sistema de Reconhecimento Facial do Zero
-
-Este projeto oferece um código Python para detecção de faces em imagens, utilizando o modelo Haar Cascade. O objetivo é construir um sistema básico de reconhecimento facial do zero, com instruções passo a passo para preparar o ambiente e realizar a detecção.
-
-## Preparação do Ambiente
 Para executar o código, você precisa ter um ambiente Python configurado com as bibliotecas necessárias. O Google Colab é recomendado para facilitar a execução interativa do código. As principais bibliotecas utilizadas são:
 - TensorFlow
 - NumPy
